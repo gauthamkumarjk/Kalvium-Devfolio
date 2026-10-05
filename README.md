@@ -1,4 +1,4 @@
-\# Gautham Kumar's Portfolio
+# Gautham Kumar's Portfolio
 
 A portfolio website made using HTML and CSS.
 
